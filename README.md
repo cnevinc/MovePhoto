@@ -1,6 +1,11 @@
 <pre>
 MovePhoto
 =========
+1. 用拍照日期幫圖檔分類，並自動移到依日期命名的資料夾中
+2. 可選擇路徑
+3. 無UI，使用command line 或 IDE 執行
+
+
 Categorize photos by photo creation date
 
 This program will :
